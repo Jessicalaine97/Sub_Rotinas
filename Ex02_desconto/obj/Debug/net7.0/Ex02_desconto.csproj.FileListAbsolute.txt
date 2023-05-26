@@ -1,0 +1,30 @@
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex02_desconto\bin\Debug\net7.0\Ex02_desconto.exe
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex02_desconto\bin\Debug\net7.0\Ex02_desconto.deps.json
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex02_desconto\bin\Debug\net7.0\Ex02_desconto.runtimeconfig.json
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex02_desconto\bin\Debug\net7.0\Ex02_desconto.dll
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex02_desconto\bin\Debug\net7.0\Ex02_desconto.pdb
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex02_desconto\obj\Debug\net7.0\Ex02_desconto.csproj.AssemblyReference.cache
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex02_desconto\obj\Debug\net7.0\Ex02_desconto.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex02_desconto\obj\Debug\net7.0\Ex02_desconto.AssemblyInfoInputs.cache
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex02_desconto\obj\Debug\net7.0\Ex02_desconto.AssemblyInfo.cs
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex02_desconto\obj\Debug\net7.0\Ex02_desconto.csproj.CoreCompileInputs.cache
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex02_desconto\obj\Debug\net7.0\Ex02_desconto.dll
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex02_desconto\obj\Debug\net7.0\refint\Ex02_desconto.dll
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex02_desconto\obj\Debug\net7.0\Ex02_desconto.pdb
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex02_desconto\obj\Debug\net7.0\Ex02_desconto.genruntimeconfig.cache
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex02_desconto\obj\Debug\net7.0\ref\Ex02_desconto.dll
+E:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex02_desconto\bin\Debug\net7.0\Ex02_desconto.exe
+E:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex02_desconto\bin\Debug\net7.0\Ex02_desconto.deps.json
+E:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex02_desconto\bin\Debug\net7.0\Ex02_desconto.runtimeconfig.json
+E:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex02_desconto\bin\Debug\net7.0\Ex02_desconto.dll
+E:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex02_desconto\bin\Debug\net7.0\Ex02_desconto.pdb
+E:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex02_desconto\obj\Debug\net7.0\Ex02_desconto.csproj.AssemblyReference.cache
+E:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex02_desconto\obj\Debug\net7.0\Ex02_desconto.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex02_desconto\obj\Debug\net7.0\Ex02_desconto.AssemblyInfoInputs.cache
+E:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex02_desconto\obj\Debug\net7.0\Ex02_desconto.AssemblyInfo.cs
+E:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex02_desconto\obj\Debug\net7.0\Ex02_desconto.csproj.CoreCompileInputs.cache
+E:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex02_desconto\obj\Debug\net7.0\Ex02_desconto.dll
+E:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex02_desconto\obj\Debug\net7.0\refint\Ex02_desconto.dll
+E:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex02_desconto\obj\Debug\net7.0\Ex02_desconto.pdb
+E:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex02_desconto\obj\Debug\net7.0\Ex02_desconto.genruntimeconfig.cache
+E:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex02_desconto\obj\Debug\net7.0\ref\Ex02_desconto.dll

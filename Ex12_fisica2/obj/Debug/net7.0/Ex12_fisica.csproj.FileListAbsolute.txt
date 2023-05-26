@@ -1,0 +1,30 @@
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex12_fisica\bin\Debug\net7.0\Ex12_fisica.exe
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex12_fisica\bin\Debug\net7.0\Ex12_fisica.deps.json
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex12_fisica\bin\Debug\net7.0\Ex12_fisica.runtimeconfig.json
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex12_fisica\bin\Debug\net7.0\Ex12_fisica.dll
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex12_fisica\bin\Debug\net7.0\Ex12_fisica.pdb
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex12_fisica\obj\Debug\net7.0\Ex12_fisica.csproj.AssemblyReference.cache
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex12_fisica\obj\Debug\net7.0\Ex12_fisica.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex12_fisica\obj\Debug\net7.0\Ex12_fisica.AssemblyInfoInputs.cache
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex12_fisica\obj\Debug\net7.0\Ex12_fisica.AssemblyInfo.cs
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex12_fisica\obj\Debug\net7.0\Ex12_fisica.csproj.CoreCompileInputs.cache
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex12_fisica\obj\Debug\net7.0\Ex12_fisica.dll
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex12_fisica\obj\Debug\net7.0\refint\Ex12_fisica.dll
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex12_fisica\obj\Debug\net7.0\Ex12_fisica.pdb
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex12_fisica\obj\Debug\net7.0\Ex12_fisica.genruntimeconfig.cache
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex12_fisica\obj\Debug\net7.0\ref\Ex12_fisica.dll
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex12_fisica2\bin\Debug\net7.0\Ex12_fisica.exe
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex12_fisica2\bin\Debug\net7.0\Ex12_fisica.deps.json
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex12_fisica2\bin\Debug\net7.0\Ex12_fisica.runtimeconfig.json
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex12_fisica2\bin\Debug\net7.0\Ex12_fisica.dll
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex12_fisica2\bin\Debug\net7.0\Ex12_fisica.pdb
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex12_fisica2\obj\Debug\net7.0\Ex12_fisica.csproj.AssemblyReference.cache
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex12_fisica2\obj\Debug\net7.0\Ex12_fisica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex12_fisica2\obj\Debug\net7.0\Ex12_fisica.AssemblyInfoInputs.cache
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex12_fisica2\obj\Debug\net7.0\Ex12_fisica.AssemblyInfo.cs
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex12_fisica2\obj\Debug\net7.0\Ex12_fisica.csproj.CoreCompileInputs.cache
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex12_fisica2\obj\Debug\net7.0\Ex12_fisica.dll
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex12_fisica2\obj\Debug\net7.0\refint\Ex12_fisica.dll
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex12_fisica2\obj\Debug\net7.0\Ex12_fisica.pdb
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex12_fisica2\obj\Debug\net7.0\Ex12_fisica.genruntimeconfig.cache
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex12_fisica2\obj\Debug\net7.0\ref\Ex12_fisica.dll

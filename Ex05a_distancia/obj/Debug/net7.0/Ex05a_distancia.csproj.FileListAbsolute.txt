@@ -1,0 +1,15 @@
+E:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05a_distancia\bin\Debug\net7.0\Ex05a_distancia.exe
+E:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05a_distancia\bin\Debug\net7.0\Ex05a_distancia.deps.json
+E:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05a_distancia\bin\Debug\net7.0\Ex05a_distancia.runtimeconfig.json
+E:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05a_distancia\bin\Debug\net7.0\Ex05a_distancia.dll
+E:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05a_distancia\bin\Debug\net7.0\Ex05a_distancia.pdb
+E:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05a_distancia\obj\Debug\net7.0\Ex05a_distancia.csproj.AssemblyReference.cache
+E:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05a_distancia\obj\Debug\net7.0\Ex05a_distancia.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05a_distancia\obj\Debug\net7.0\Ex05a_distancia.AssemblyInfoInputs.cache
+E:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05a_distancia\obj\Debug\net7.0\Ex05a_distancia.AssemblyInfo.cs
+E:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05a_distancia\obj\Debug\net7.0\Ex05a_distancia.csproj.CoreCompileInputs.cache
+E:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05a_distancia\obj\Debug\net7.0\Ex05a_distancia.dll
+E:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05a_distancia\obj\Debug\net7.0\refint\Ex05a_distancia.dll
+E:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05a_distancia\obj\Debug\net7.0\Ex05a_distancia.pdb
+E:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05a_distancia\obj\Debug\net7.0\Ex05a_distancia.genruntimeconfig.cache
+E:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05a_distancia\obj\Debug\net7.0\ref\Ex05a_distancia.dll

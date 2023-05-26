@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Ex08_horas/1.0.0": {
+        "runtime": {
+          "Ex08_horas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex08_horas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

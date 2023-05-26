@@ -1,0 +1,60 @@
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo\obj\Debug\net7.0\Ex05b_distancia_completo.csproj.AssemblyReference.cache
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo\obj\Debug\net7.0\Ex05b_distancia_completo.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo\obj\Debug\net7.0\Ex05b_distancia_completo.AssemblyInfoInputs.cache
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo\obj\Debug\net7.0\Ex05b_distancia_completo.AssemblyInfo.cs
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo\obj\Debug\net7.0\Ex05b_distancia_completo.csproj.CoreCompileInputs.cache
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo\bin\Debug\net7.0\Ex05b_distancia_completo.exe
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo\bin\Debug\net7.0\Ex05b_distancia_completo.deps.json
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo\bin\Debug\net7.0\Ex05b_distancia_completo.runtimeconfig.json
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo\bin\Debug\net7.0\Ex05b_distancia_completo.dll
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo\bin\Debug\net7.0\Ex05b_distancia_completo.pdb
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo\obj\Debug\net7.0\Ex05b_distancia_completo.dll
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo\obj\Debug\net7.0\refint\Ex05b_distancia_completo.dll
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo\obj\Debug\net7.0\Ex05b_distancia_completo.pdb
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo\obj\Debug\net7.0\Ex05b_distancia_completo.genruntimeconfig.cache
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo\obj\Debug\net7.0\ref\Ex05b_distancia_completo.dll
+E:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo\bin\Debug\net7.0\Ex05b_distancia_completo.exe
+E:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo\bin\Debug\net7.0\Ex05b_distancia_completo.deps.json
+E:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo\bin\Debug\net7.0\Ex05b_distancia_completo.runtimeconfig.json
+E:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo\bin\Debug\net7.0\Ex05b_distancia_completo.dll
+E:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo\bin\Debug\net7.0\Ex05b_distancia_completo.pdb
+E:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo\obj\Debug\net7.0\Ex05b_distancia_completo.csproj.AssemblyReference.cache
+E:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo\obj\Debug\net7.0\Ex05b_distancia_completo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo\obj\Debug\net7.0\Ex05b_distancia_completo.AssemblyInfoInputs.cache
+E:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo\obj\Debug\net7.0\Ex05b_distancia_completo.AssemblyInfo.cs
+E:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo\obj\Debug\net7.0\Ex05b_distancia_completo.csproj.CoreCompileInputs.cache
+E:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo\obj\Debug\net7.0\Ex05b_distancia_completo.dll
+E:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo\obj\Debug\net7.0\refint\Ex05b_distancia_completo.dll
+E:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo\obj\Debug\net7.0\Ex05b_distancia_completo.pdb
+E:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo\obj\Debug\net7.0\Ex05b_distancia_completo.genruntimeconfig.cache
+E:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo\obj\Debug\net7.0\ref\Ex05b_distancia_completo.dll
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo\bin\Debug\net7.0\Ex05b_distancia_completo.exe
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo\bin\Debug\net7.0\Ex05b_distancia_completo.deps.json
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo\bin\Debug\net7.0\Ex05b_distancia_completo.runtimeconfig.json
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo\bin\Debug\net7.0\Ex05b_distancia_completo.dll
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo\bin\Debug\net7.0\Ex05b_distancia_completo.pdb
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo\obj\Debug\net7.0\Ex05b_distancia_completo.csproj.AssemblyReference.cache
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo\obj\Debug\net7.0\Ex05b_distancia_completo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo\obj\Debug\net7.0\Ex05b_distancia_completo.AssemblyInfoInputs.cache
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo\obj\Debug\net7.0\Ex05b_distancia_completo.AssemblyInfo.cs
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo\obj\Debug\net7.0\Ex05b_distancia_completo.csproj.CoreCompileInputs.cache
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo\obj\Debug\net7.0\Ex05b_distancia_completo.dll
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo\obj\Debug\net7.0\refint\Ex05b_distancia_completo.dll
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo\obj\Debug\net7.0\Ex05b_distancia_completo.pdb
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo\obj\Debug\net7.0\Ex05b_distancia_completo.genruntimeconfig.cache
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo\obj\Debug\net7.0\ref\Ex05b_distancia_completo.dll
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo2\obj\Debug\net7.0\Ex05b_distancia_completo.csproj.AssemblyReference.cache
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo2\obj\Debug\net7.0\Ex05b_distancia_completo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo2\obj\Debug\net7.0\Ex05b_distancia_completo.AssemblyInfoInputs.cache
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo2\obj\Debug\net7.0\Ex05b_distancia_completo.AssemblyInfo.cs
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo2\obj\Debug\net7.0\Ex05b_distancia_completo.csproj.CoreCompileInputs.cache
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo2\obj\Debug\net7.0\Ex05b_distancia_completo.dll
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo2\obj\Debug\net7.0\refint\Ex05b_distancia_completo.dll
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo2\obj\Debug\net7.0\Ex05b_distancia_completo.pdb
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo2\bin\Debug\net7.0\Ex05b_distancia_completo.exe
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo2\bin\Debug\net7.0\Ex05b_distancia_completo.deps.json
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo2\bin\Debug\net7.0\Ex05b_distancia_completo.runtimeconfig.json
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo2\bin\Debug\net7.0\Ex05b_distancia_completo.dll
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo2\bin\Debug\net7.0\Ex05b_distancia_completo.pdb
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo2\obj\Debug\net7.0\Ex05b_distancia_completo.genruntimeconfig.cache
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex05b_distancia_completo2\obj\Debug\net7.0\ref\Ex05b_distancia_completo.dll

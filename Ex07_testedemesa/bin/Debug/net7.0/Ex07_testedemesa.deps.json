@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Ex07_testedemesa/1.0.0": {
+        "runtime": {
+          "Ex07_testedemesa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex07_testedemesa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,30 @@
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex10_dias\bin\Debug\net7.0\Ex10_dias.exe
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex10_dias\bin\Debug\net7.0\Ex10_dias.deps.json
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex10_dias\bin\Debug\net7.0\Ex10_dias.runtimeconfig.json
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex10_dias\bin\Debug\net7.0\Ex10_dias.dll
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex10_dias\bin\Debug\net7.0\Ex10_dias.pdb
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex10_dias\obj\Debug\net7.0\Ex10_dias.csproj.AssemblyReference.cache
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex10_dias\obj\Debug\net7.0\Ex10_dias.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex10_dias\obj\Debug\net7.0\Ex10_dias.AssemblyInfoInputs.cache
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex10_dias\obj\Debug\net7.0\Ex10_dias.AssemblyInfo.cs
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex10_dias\obj\Debug\net7.0\Ex10_dias.csproj.CoreCompileInputs.cache
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex10_dias\obj\Debug\net7.0\Ex10_dias.dll
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex10_dias\obj\Debug\net7.0\refint\Ex10_dias.dll
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex10_dias\obj\Debug\net7.0\Ex10_dias.pdb
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex10_dias\obj\Debug\net7.0\Ex10_dias.genruntimeconfig.cache
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex10_dias\obj\Debug\net7.0\ref\Ex10_dias.dll
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex10_dias\bin\Debug\net7.0\Ex10_dias.exe
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex10_dias\bin\Debug\net7.0\Ex10_dias.deps.json
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex10_dias\bin\Debug\net7.0\Ex10_dias.runtimeconfig.json
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex10_dias\bin\Debug\net7.0\Ex10_dias.dll
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex10_dias\bin\Debug\net7.0\Ex10_dias.pdb
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex10_dias\obj\Debug\net7.0\Ex10_dias.csproj.AssemblyReference.cache
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex10_dias\obj\Debug\net7.0\Ex10_dias.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex10_dias\obj\Debug\net7.0\Ex10_dias.AssemblyInfoInputs.cache
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex10_dias\obj\Debug\net7.0\Ex10_dias.AssemblyInfo.cs
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex10_dias\obj\Debug\net7.0\Ex10_dias.csproj.CoreCompileInputs.cache
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex10_dias\obj\Debug\net7.0\Ex10_dias.dll
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex10_dias\obj\Debug\net7.0\refint\Ex10_dias.dll
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex10_dias\obj\Debug\net7.0\Ex10_dias.pdb
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex10_dias\obj\Debug\net7.0\Ex10_dias.genruntimeconfig.cache
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex10_dias\obj\Debug\net7.0\ref\Ex10_dias.dll

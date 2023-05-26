@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\Meu Drive\\Períodos\\2023.1\\Fundamentos de Programação\\Exercicios\\Aula03_Sub_Rotinas\\Ex12a_nota\\Ex12a_nota.csproj": {}
+  },
+  "projects": {
+    "H:\\Meu Drive\\Períodos\\2023.1\\Fundamentos de Programação\\Exercicios\\Aula03_Sub_Rotinas\\Ex12a_nota\\Ex12a_nota.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Meu Drive\\Períodos\\2023.1\\Fundamentos de Programação\\Exercicios\\Aula03_Sub_Rotinas\\Ex12a_nota\\Ex12a_nota.csproj",
+        "projectName": "Ex12a_nota",
+        "projectPath": "H:\\Meu Drive\\Períodos\\2023.1\\Fundamentos de Programação\\Exercicios\\Aula03_Sub_Rotinas\\Ex12a_nota\\Ex12a_nota.csproj",
+        "packagesPath": "C:\\Users\\Jessica\\.nuget\\packages\\",
+        "outputPath": "H:\\Meu Drive\\Períodos\\2023.1\\Fundamentos de Programação\\Exercicios\\Aula03_Sub_Rotinas\\Ex12a_nota\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jessica\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

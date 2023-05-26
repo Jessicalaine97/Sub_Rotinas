@@ -1,0 +1,30 @@
+D:\Jessica\Aula01\ex1_media\obj\Debug\net7.0\ex1_media.csproj.AssemblyReference.cache
+D:\Jessica\Aula01\ex1_media\obj\Debug\net7.0\ex1_media.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jessica\Aula01\ex1_media\obj\Debug\net7.0\ex1_media.AssemblyInfoInputs.cache
+D:\Jessica\Aula01\ex1_media\obj\Debug\net7.0\ex1_media.AssemblyInfo.cs
+D:\Jessica\Aula01\ex1_media\obj\Debug\net7.0\ex1_media.csproj.CoreCompileInputs.cache
+D:\Jessica\Aula01\ex1_media\bin\Debug\net7.0\ex1_media.exe
+D:\Jessica\Aula01\ex1_media\bin\Debug\net7.0\ex1_media.deps.json
+D:\Jessica\Aula01\ex1_media\bin\Debug\net7.0\ex1_media.runtimeconfig.json
+D:\Jessica\Aula01\ex1_media\bin\Debug\net7.0\ex1_media.dll
+D:\Jessica\Aula01\ex1_media\bin\Debug\net7.0\ex1_media.pdb
+D:\Jessica\Aula01\ex1_media\obj\Debug\net7.0\ex1_media.dll
+D:\Jessica\Aula01\ex1_media\obj\Debug\net7.0\refint\ex1_media.dll
+D:\Jessica\Aula01\ex1_media\obj\Debug\net7.0\ex1_media.pdb
+D:\Jessica\Aula01\ex1_media\obj\Debug\net7.0\ex1_media.genruntimeconfig.cache
+D:\Jessica\Aula01\ex1_media\obj\Debug\net7.0\ref\ex1_media.dll
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex01_media_completo\obj\Debug\net7.0\ex1_media.csproj.AssemblyReference.cache
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex01_media_completo\obj\Debug\net7.0\ex1_media.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex01_media_completo\obj\Debug\net7.0\ex1_media.AssemblyInfoInputs.cache
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex01_media_completo\obj\Debug\net7.0\ex1_media.AssemblyInfo.cs
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex01_media_completo\obj\Debug\net7.0\ex1_media.csproj.CoreCompileInputs.cache
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex01_media_completo\obj\Debug\net7.0\ex1_media.dll
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex01_media_completo\obj\Debug\net7.0\refint\ex1_media.dll
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex01_media_completo\obj\Debug\net7.0\ex1_media.pdb
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex01_media_completo\bin\Debug\net7.0\ex1_media.exe
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex01_media_completo\bin\Debug\net7.0\ex1_media.deps.json
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex01_media_completo\bin\Debug\net7.0\ex1_media.runtimeconfig.json
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex01_media_completo\bin\Debug\net7.0\ex1_media.dll
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex01_media_completo\bin\Debug\net7.0\ex1_media.pdb
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex01_media_completo\obj\Debug\net7.0\ex1_media.genruntimeconfig.cache
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex01_media_completo\obj\Debug\net7.0\ref\ex1_media.dll

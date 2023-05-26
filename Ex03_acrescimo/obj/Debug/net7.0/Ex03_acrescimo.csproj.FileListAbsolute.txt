@@ -1,0 +1,30 @@
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex03_acrescimo\bin\Debug\net7.0\Ex03_acrescimo.exe
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex03_acrescimo\bin\Debug\net7.0\Ex03_acrescimo.deps.json
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex03_acrescimo\bin\Debug\net7.0\Ex03_acrescimo.runtimeconfig.json
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex03_acrescimo\bin\Debug\net7.0\Ex03_acrescimo.dll
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex03_acrescimo\bin\Debug\net7.0\Ex03_acrescimo.pdb
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex03_acrescimo\obj\Debug\net7.0\Ex03_acrescimo.csproj.AssemblyReference.cache
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex03_acrescimo\obj\Debug\net7.0\Ex03_acrescimo.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex03_acrescimo\obj\Debug\net7.0\Ex03_acrescimo.AssemblyInfoInputs.cache
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex03_acrescimo\obj\Debug\net7.0\Ex03_acrescimo.AssemblyInfo.cs
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex03_acrescimo\obj\Debug\net7.0\Ex03_acrescimo.csproj.CoreCompileInputs.cache
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex03_acrescimo\obj\Debug\net7.0\Ex03_acrescimo.dll
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex03_acrescimo\obj\Debug\net7.0\refint\Ex03_acrescimo.dll
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex03_acrescimo\obj\Debug\net7.0\Ex03_acrescimo.pdb
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex03_acrescimo\obj\Debug\net7.0\Ex03_acrescimo.genruntimeconfig.cache
+H:\Meu Drive\Períodos\2023.1\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex03_acrescimo\obj\Debug\net7.0\ref\Ex03_acrescimo.dll
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex03_acrescimo\bin\Debug\net7.0\Ex03_acrescimo.exe
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex03_acrescimo\bin\Debug\net7.0\Ex03_acrescimo.deps.json
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex03_acrescimo\bin\Debug\net7.0\Ex03_acrescimo.runtimeconfig.json
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex03_acrescimo\bin\Debug\net7.0\Ex03_acrescimo.dll
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex03_acrescimo\bin\Debug\net7.0\Ex03_acrescimo.pdb
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex03_acrescimo\obj\Debug\net7.0\Ex03_acrescimo.csproj.AssemblyReference.cache
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex03_acrescimo\obj\Debug\net7.0\Ex03_acrescimo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex03_acrescimo\obj\Debug\net7.0\Ex03_acrescimo.AssemblyInfoInputs.cache
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex03_acrescimo\obj\Debug\net7.0\Ex03_acrescimo.AssemblyInfo.cs
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex03_acrescimo\obj\Debug\net7.0\Ex03_acrescimo.csproj.CoreCompileInputs.cache
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex03_acrescimo\obj\Debug\net7.0\Ex03_acrescimo.dll
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex03_acrescimo\obj\Debug\net7.0\refint\Ex03_acrescimo.dll
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex03_acrescimo\obj\Debug\net7.0\Ex03_acrescimo.pdb
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex03_acrescimo\obj\Debug\net7.0\Ex03_acrescimo.genruntimeconfig.cache
+D:\Fundamentos de Programação\Exercicios\Aula03_Sub_Rotinas\Ex03_acrescimo\obj\Debug\net7.0\ref\Ex03_acrescimo.dll
